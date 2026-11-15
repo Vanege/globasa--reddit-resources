@@ -1,0 +1,23 @@
+Since Globasa typically favors derived words over root words, it stands to reason that it would attempt to be on the logical side of the spectrum when it comes to derivation, *logical* as opposed to *arbitrary*. How logical? The question hasn't been formally addressed, but over the years I think we've settled on something along these lines: the meaning of a novel affixed word should be transparent for most people *at first sight*; the meaning of novel compound word should be transparent for most people *in context* if not *at first sight*.
+
+Now, one key component of word derivation in Globasa is the part of speech of its roots, especially noun/verb roots. Specifically, when attaching suffixes, is the suffix attaching to the noun or the verb aspect of the word? And if attaching to an ambitransitive verb, is it transitive or intransitive in the derivation? Here, as we have seen in recent posts on ambitransitive verbs, Globasa aims for as much derivational transparency as possible by eliminating almost all ambiguity. The rationale is that the *semantic* component of morphemes (the meaning of the root, roots or affix) in derivation already represents a large enough challenge on transparency, so there should be almost no arbitrariness in the *function* component of roots that would lead to derivational ambiguity.
+
+Perhaps I should clarify by saying, *significant* derivational ambiguity. As seen recently, the one ambiguity that Globasa does allow in terms of root function is with the use of [\-do in ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1hmwhy0/the_suffix_do_with_ambitransitive_verbs/). In contrast, it would been unacceptable to have something like **interesyen** be ambiguous, as seen in [another post](https://www.reddit.com/r/Globasa/comments/1h5xhc9/verb_transitivity_in_derivation/). However, the way the word **interesyen** was used in a text when I encountered it recently was likely interpreted as **interes** (noun) + **-yen** rather than **interes** (verb) + **-yen**. In other words, "a person of/with interest". Could this interpretation work after all? It could, but we would have to make it clear how so. Here's where consistency and lack of arbitrariness come in.
+
+Currently, **-yen** works in this way:
+
+General Rule: **-yen** attaches to adjectives and in noun/verb words to the verb aspect
+
+Caveat: **-yen** is only attached to *concrete* nouns never used as verbs
+
+In order for **interes** (noun) + **-yen** to work, we would have to modify the caveat for **-yen** allowing us to attach it the noun aspect of noun/verb of feeling (**amusa, interes, pilo**, etc.) or even noun/verbs of feeling *and* state (**amusa, interes**, along with **termo, cinon**, etc). It's a matter of establishing clear and consistent rules that don't branch out into too many caveats, especially if the usefulness of said caveat doesn't outweigh the complication. Is the caveat worth it, in other words?
+
+With that in mind, I think the caveat in question does work in our favor. For one, words like **interesyen** (interested person or person of/with interest), **xohrayen** (famous person or person of/with fame) and **cinonyen** (intelligent person or person of/with intelligence) seem intuitive. In fact, they have already been used as such by the community, myself included. So even if we kept the current usage (**interesyen/beinteresyen**) so as to avoid a slightly more wordy caveat, we're likely to continue seeing errors with words such as **interesyen**, **xohrayen, cinonyen**, **talentoyen**, **piloyen**, etc. Second, noun/verbs of feeling and state are in fact very similar to concrete nouns in that they are primarily nouns; in other words, they feel significantly more noun-like than verb-like.
+
+With this approach, in order to make the distinction between "one who amuses" and "one who is/feels amusement", instead of **amusayen/beamusayen** it'll be **amusayen/amusagiyen**. The meaning "one who is/feels \[noun of feeling/state\]" is significantly more useful/common in most cases, so using \[root\]**-yen** instead of **be-**\[root\]**-yen** works better, yet another reason the longer but more intuitive caveat works.
+
+General Rule: **-yen** attaches to adjectives and to the verb aspect of most noun/verb words
+
+Caveat: **-yen** is attached to *concrete* nouns never used as verbs as well as to the noun aspect of ambitransitive noun/verbs of feeling or state
+
+I will be taking a look at a few other suffixes and see what other useful caveats we can implement. There are only a couple of these tricky suffixes that come to mind: **-fil**, **-abil**.

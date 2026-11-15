@@ -48,4 +48,4 @@ Here are some examples where further development of norms is required, leading u
 * Doublets (**ikono** vs **ikoni**), homonyms (**maux**: animal or cursor-pointing device) or distinct root words (**biskiti** vs **kuki**). How do we decide what to go with? There are still very few of these, so probably no discernable pattern yet, but should we establish some norms soon?   
 
 
-* Verb usage for roots that are intrinsically nouns, for example words for diseases and ailments: **kancer** (cause cancer or have/suffer from cancer)?
+* Verb usage for roots that are intrinsically nouns, for example words for diseases and ailments: **kancer** (cause cancer or have/suffer from cancer)? 

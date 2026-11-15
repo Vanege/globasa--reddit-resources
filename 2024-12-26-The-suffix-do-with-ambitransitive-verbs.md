@@ -1,0 +1,13 @@
+As explained in an earlier post, ambitransitive verbs function as transitive verbs in derivation. However, as suggested in a subsequent post, when attaching the suffix **-do**, ambitransitive verbs function not only as transitive verbs but are ambiguous and function as intransitive verbs as well.
+
+**kasirudo janela** \- the window which has been broken (EO: *rompita fenestro*), or the window which has broken (EO: *rompigxinta fenestro*)
+
+One way to look at this is that this works well because **-do** may be applied to either transitive or intransitive verbs, as seen under [Xwexi: Gramati](https://xwexi.globasa.net/eng/gramati/inharelexi). What hasn't yet been spelled out is that Globasa's **-do** can be regarded as a short form of **le-be-X-ne** (Esperanto's -\[ig\]ita) for verbs labeled as transitive or **le-X-ne** (Esperanto's -\[igx\]inta) for verbs labeled as intransitive.
+
+Alternatively, we can observe that the suffix **-do** gets away with this ambivalence in meaning and ambiguity with ambitransitive verbs because, as explained under [Xwexi: Gramati](https://xwexi.globasa.net/eng/gramati/inharelexi), **-do** is attached primarily to the noun aspect of the noun/verb, as can be seen with a noun like **paranoy** (paranoia), which hasn't been assigned a verb meaning but nevertheless has worked well with the use of **-do** to generate the word **paranoydo** (paranoid, or *in a state of paranoia*). Based on the series of recent posts, we now know that the logical meaning for **paranoy** as a verb would be "to be paranoid" or "to cause to be paranoid", working much like **fobi** (fear; be/feel afraid; frighten) and **pilo** (fatigue; be/feel tired; tire), but this is after the fact of having established the use of noun+ **-do** in **paranoydo**.
+
+Both of the above interpretations for **-do** work.
+
+Semantically speaking, the ambiguity with ambitransitive verbs is fine, as can be seen above, where one might not know or care how the window came to be broken (the window broke, by accident or due to its quality, or the window was broken, intentionally).
+
+By the way, the use of **le-** and **xa-** with **-ne,** as seen above to explain **-do** usage, has not been established in Globasa but would be perfectly logical and could in theory be used to generate derivations equivalent to all Esperanto participles. In practice, though, I think the use of relative clauses would be preferable to the less easily parsed agglutinated forms: **alimyen hu da le ergo** vs **leergone alimyen** (the teacher who worked).
